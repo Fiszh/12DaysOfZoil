@@ -66,7 +66,7 @@
             timeParam = "today";
         }
 
-        const response = await fetch(`http://localhost:9530/zoil/${timeParam}`);
+        const response = await fetch(`https://zoil.unii.dev/zoil/${timeParam}`);
 
         if (!response.ok) {
             throw new Error(`Failed to get ${timeParam} data!`);
