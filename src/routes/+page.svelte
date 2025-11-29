@@ -224,7 +224,7 @@
                 <li>
                     <p class="item_placement">#{i + 1}</p>
                     {#if stat.url}
-                        <img src={stat.url} alt="stat_icon" />
+                        <img src={stat.url} alt="stat_icon" loading="lazy" />
                     {/if}
                     <div class="item_info">
                         <p class="item_name">{stat.name}</p>
