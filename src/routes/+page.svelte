@@ -29,8 +29,18 @@
         },
     };
 
+    const refreshTime = writable(20);
+    let topData = writable({});
+    let mainData = writable<any[]>([]);
+    let otherData = writable<{ new: number; total: number }>({
+        new: 0,
+        total: 0,
+    });
+    let graphData = writable<Record<string, any>>({ labels: [], data: [] });
+
     $: if (currentParam) {
         loadData();
+        refreshTime.set(20);
 
         for (const navLink of Object.values(navLinks)) {
             const hasHash = navLink["param"] == currentParam;
@@ -49,15 +59,6 @@
         }
     }
 
-    const refreshTime = writable(20);
-    let topData = writable({});
-    let mainData = writable<any[]>([]);
-    let otherData = writable<{ new: number; total: number }>({
-        new: 0,
-        total: 0,
-    });
-    let graphData = writable<Record<string, any>>({ labels: [], data: [] });
-
     async function loadData() {
         const aviableTimeFrames = ["today", "week", "alltime"];
 
@@ -75,7 +76,7 @@
         const data = await response.json();
 
         if (data["data"] || data["otherData"]) {
-            const rows: any = {};
+            const rows: Record<number, { row: number; data: any[] }> = {};
 
             for (const item of Object.values(data["data"]) as Record<
                 string,
@@ -90,7 +91,15 @@
                 rows[item.row].data.push(item);
             }
 
-            const mapped = Object.values(rows) as any[];
+            for (const row of Object.values(rows)) {
+                for (const stat of row.data) {
+                    if (Array.isArray(stat.data)) {
+                        stat.data.sort((a: any, b: any) => b.count - a.count);
+                    }
+                }
+            }
+
+            const mapped = Object.values(rows);
 
             const top_data = Object.fromEntries(
                 Object.entries(data.data).filter(
