@@ -230,7 +230,7 @@
                         <p class="item_name">{stat.name}</p>
                         <div class="count">
                             <p>Count:</p>
-                            <p class="item_count">{stat.count}</p>
+                            <p class="item_count">{stat.count.toLocaleString()}</p>
                         </div>
                     </div>
                 </li>
@@ -321,6 +321,60 @@
         }
     }
 
+    // MOBILE
+    @media (max-width: 768px) {
+        topbar {
+            display: flex;
+            flex-direction: column;
+
+            font-size: 0.7rem !important;
+            padding-bottom: 0.5rem !important;
+
+            img {
+                aspect-ratio: 1/1;
+                height: 3rem;
+            }
+
+            h1 {
+                margin: 0;
+            }
+        }
+
+        main {
+            padding: 1rem 1rem;
+
+            .row {
+                display: flex;
+                flex-direction: column;
+                gap: 1rem;
+            }
+        }
+    }
+
+    // PC
+    @media (min-width: 769px) {
+        topbar {
+            img {
+                aspect-ratio: 1/1;
+                height: 4rem;
+            }
+
+            #time_buttons {
+                position: absolute;
+                right: 1rem;
+            }
+        }
+
+        main {
+            padding: 1rem 15rem;
+
+            .row {
+                display: inline-flex;
+                gap: 1rem;
+            }
+        }
+    }
+
     // * > * {
     //     outline: rgba(255, 255, 255, 0.25) 1px solid;
     // }
@@ -328,6 +382,7 @@
     topbar {
         flex: 0 1;
         padding: 0.5dvw 1dvh;
+        box-sizing: border-box;
         font-size: 35px;
         background-color: rgb(0, 0, 0);
         border-bottom: 1px solid #333;
@@ -338,14 +393,7 @@
         font-size: 1rem;
         display: flex;
 
-        img {
-            aspect-ratio: 1/1;
-            height: 4rem;
-        }
-
         #time_buttons {
-            position: absolute;
-            right: 1rem;
             display: flex;
             gap: 0.5rem;
 
@@ -391,7 +439,6 @@
         height: 100%;
         width: 100%;
         background-color: rgb(0, 0, 0);
-        padding: 1rem 15rem;
         box-sizing: border-box;
         overflow-y: auto;
         display: flex;
@@ -399,11 +446,9 @@
         gap: 1rem;
 
         .row {
-            display: inline-flex;
             box-sizing: border-box;
             justify-content: center;
             width: 100%;
-            gap: 1rem;
 
             .stat {
                 background-color: #ffffff0a;
