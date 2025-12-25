@@ -1,0 +1,1002 @@
+{
+  "unique_chatters": 24,
+  "everage_message_per_chatter": 18.5,
+  "total_messages": 444,
+  "longest_message": {
+    "message": "its all gonna be forseen playing a game not saying a word and his teammates spamming loud sounds on open mic",
+    "sent_on": "14/12/2025 08:06:46 pm",
+    "sent_by": "ewpert1"
+  },
+  "message_count": {
+    "stat_name": "Message Count",
+    "row": 1,
+    "data": [
+      {
+        "name": "zr1ff",
+        "count": 44,
+        "last_message": "14/12/2025 08:15:32 pm"
+      },
+      {
+        "name": "Zanngy_",
+        "count": 113,
+        "last_message": "14/12/2025 08:15:46 pm"
+      },
+      {
+        "name": "MrsMalvic",
+        "count": 8,
+        "last_message": "14/12/2025 08:07:02 pm"
+      },
+      {
+        "name": "4cora",
+        "count": 47,
+        "last_message": "14/12/2025 08:15:21 pm"
+      },
+      {
+        "name": "lulcomputer",
+        "count": 11,
+        "last_message": "14/12/2025 08:12:56 pm"
+      },
+      {
+        "name": "kylekjc",
+        "count": 34,
+        "last_message": "14/12/2025 08:15:14 pm"
+      },
+      {
+        "name": "MrMalvic",
+        "count": 40,
+        "last_message": "14/12/2025 08:15:50 pm"
+      },
+      {
+        "name": "HiMemeMan",
+        "count": 23,
+        "last_message": "14/12/2025 08:07:47 pm"
+      },
+      {
+        "name": "TankingJo",
+        "count": 4,
+        "last_message": "14/12/2025 08:10:42 pm"
+      },
+      {
+        "name": "spaklez66",
+        "count": 7,
+        "last_message": "14/12/2025 08:10:58 pm"
+      },
+      {
+        "name": "Jr_Mime",
+        "count": 15,
+        "last_message": "14/12/2025 08:12:27 pm"
+      },
+      {
+        "name": "xXx__bellend__xXx",
+        "count": 7,
+        "last_message": "14/12/2025 08:13:58 pm"
+      },
+      {
+        "name": "nardobaldo",
+        "count": 5,
+        "last_message": "14/12/2025 08:10:45 pm"
+      },
+      {
+        "name": "loraria",
+        "count": 22,
+        "last_message": "14/12/2025 08:15:39 pm"
+      },
+      {
+        "name": "Nino_310",
+        "count": 13,
+        "last_message": "14/12/2025 08:14:43 pm"
+      },
+      {
+        "name": "kvazio",
+        "count": 1,
+        "last_message": "14/12/2025 08:03:18 pm"
+      },
+      {
+        "name": "AreaMann",
+        "count": 1,
+        "last_message": "14/12/2025 08:03:52 pm"
+      },
+      {
+        "name": "HappyBirthdayChatGuy",
+        "count": 1,
+        "last_message": "14/12/2025 08:04:30 pm"
+      },
+      {
+        "name": "ewpert1",
+        "count": 18,
+        "last_message": "14/12/2025 08:15:11 pm"
+      },
+      {
+        "name": "Juggalo",
+        "count": 2,
+        "last_message": "14/12/2025 08:06:47 pm"
+      },
+      {
+        "name": "Brohanson",
+        "count": 6,
+        "last_message": "14/12/2025 08:13:13 pm"
+      },
+      {
+        "name": "Rexdain",
+        "count": 12,
+        "last_message": "14/12/2025 08:15:48 pm"
+      },
+      {
+        "name": "mati20106",
+        "count": 1,
+        "last_message": "14/12/2025 08:11:12 pm"
+      },
+      {
+        "name": "RobTheBlob__",
+        "count": 9,
+        "last_message": "14/12/2025 08:15:13 pm"
+      }
+    ]
+  },
+  "top_linkers": {
+    "stat_name": "Top linkers",
+    "row": 1,
+    "data": []
+  },
+  "top_gifters": {
+    "stat_name": "Top Gifters",
+    "row": 1,
+    "data": []
+  },
+  "top_emoters": {
+    "stat_name": "Top Emoters",
+    "row": 2,
+    "data": [
+      {
+        "name": "Zanngy_",
+        "count": 62,
+        "last_message": "14/12/2025 08:15:46 pm"
+      },
+      {
+        "name": "4cora",
+        "count": 36,
+        "last_message": "14/12/2025 08:15:21 pm"
+      },
+      {
+        "name": "lulcomputer",
+        "count": 9,
+        "last_message": "14/12/2025 08:12:56 pm"
+      },
+      {
+        "name": "kylekjc",
+        "count": 30,
+        "last_message": "14/12/2025 08:15:04 pm"
+      },
+      {
+        "name": "zr1ff",
+        "count": 30,
+        "last_message": "14/12/2025 08:15:21 pm"
+      },
+      {
+        "name": "HiMemeMan",
+        "count": 16,
+        "last_message": "14/12/2025 08:07:47 pm"
+      },
+      {
+        "name": "TankingJo",
+        "count": 4,
+        "last_message": "14/12/2025 08:10:42 pm"
+      },
+      {
+        "name": "MrMalvic",
+        "count": 16,
+        "last_message": "14/12/2025 08:14:23 pm"
+      },
+      {
+        "name": "spaklez66",
+        "count": 3,
+        "last_message": "14/12/2025 08:10:02 pm"
+      },
+      {
+        "name": "Jr_Mime",
+        "count": 3,
+        "last_message": "14/12/2025 08:10:36 pm"
+      },
+      {
+        "name": "xXx__bellend__xXx",
+        "count": 5,
+        "last_message": "14/12/2025 08:12:23 pm"
+      },
+      {
+        "name": "loraria",
+        "count": 19,
+        "last_message": "14/12/2025 08:15:39 pm"
+      },
+      {
+        "name": "Nino_310",
+        "count": 14,
+        "last_message": "14/12/2025 08:14:43 pm"
+      },
+      {
+        "name": "AreaMann",
+        "count": 1,
+        "last_message": "14/12/2025 08:03:52 pm"
+      },
+      {
+        "name": "HappyBirthdayChatGuy",
+        "count": 1,
+        "last_message": "14/12/2025 08:04:30 pm"
+      },
+      {
+        "name": "Brohanson",
+        "count": 4,
+        "last_message": "14/12/2025 08:12:43 pm"
+      },
+      {
+        "name": "ewpert1",
+        "count": 8,
+        "last_message": "14/12/2025 08:14:59 pm"
+      },
+      {
+        "name": "nardobaldo",
+        "count": 3,
+        "last_message": "14/12/2025 08:10:45 pm"
+      },
+      {
+        "name": "Rexdain",
+        "count": 9,
+        "last_message": "14/12/2025 08:15:31 pm"
+      },
+      {
+        "name": "RobTheBlob__",
+        "count": 9,
+        "last_message": "14/12/2025 08:15:13 pm"
+      }
+    ]
+  },
+  "top_emotes": {
+    "stat_name": "Top Emotes",
+    "row": 2,
+    "data": [
+      {
+        "name": "67",
+        "emote_id": "01JME7XMX6S2GJ14FENTQZED53",
+        "url": "https://cdn.7tv.app/emote/01JME7XMX6S2GJ14FENTQZED53/4x.avif",
+        "count": 11,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 07:57:47 pm"
+      },
+      {
+        "name": "omePfft",
+        "emote_id": "01JW7D627MRYNJJ75TV07HPJDJ",
+        "url": "https://cdn.7tv.app/emote/01JW7D627MRYNJJ75TV07HPJDJ/4x.avif",
+        "count": 4,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 07:57:48 pm"
+      },
+      {
+        "name": "SON",
+        "emote_id": "01KBDPNXKT5T2Y7CC6Q27DXATF",
+        "url": "https://cdn.7tv.app/emote/01KBDPNXKT5T2Y7CC6Q27DXATF/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 07:57:58 pm"
+      },
+      {
+        "name": "OOOO",
+        "emote_id": "01HGXBVKPR00025ZBQF6KKY8YD",
+        "url": "https://cdn.7tv.app/emote/01HGXBVKPR00025ZBQF6KKY8YD/4x.avif",
+        "count": 16,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 07:58:23 pm"
+      },
+      {
+        "name": "WOAH",
+        "emote_id": "01K4CN5BJMSEYVNXWB11EADZ6G",
+        "url": "https://cdn.7tv.app/emote/01K4CN5BJMSEYVNXWB11EADZ6G/4x.avif",
+        "count": 5,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 07:58:28 pm"
+      },
+      {
+        "name": "5Head",
+        "emote_id": "01FM1BAN8G000F3BGNNF3YRVJT",
+        "url": "https://cdn.7tv.app/emote/01FM1BAN8G000F3BGNNF3YRVJT/4x.avif",
+        "count": 3,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 07:58:31 pm"
+      },
+      {
+        "name": "OO",
+        "emote_id": "01KB6PPFAYVXYDNDMEKK4VZS8G",
+        "url": "https://cdn.7tv.app/emote/01KB6PPFAYVXYDNDMEKK4VZS8G/4x.avif",
+        "count": 5,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 07:58:40 pm"
+      },
+      {
+        "name": "omE",
+        "emote_id": "01GGWJ40K8000CRN7W4KGAWNJF",
+        "url": "https://cdn.7tv.app/emote/01GGWJ40K8000CRN7W4KGAWNJF/4x.avif",
+        "count": 26,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 07:58:47 pm"
+      },
+      {
+        "name": "wowie",
+        "emote_id": "01JE6WBYX0BWCHVF8ZPC19Z9WX",
+        "url": "https://cdn.7tv.app/emote/01JE6WBYX0BWCHVF8ZPC19Z9WX/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 07:59:12 pm"
+      },
+      {
+        "name": "aga",
+        "emote_id": "01JD2VR6TWZJMQ093WP6X976M7",
+        "url": "https://cdn.7tv.app/emote/01JD2VR6TWZJMQ093WP6X976M7/4x.avif",
+        "count": 5,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 07:59:35 pm"
+      },
+      {
+        "name": "wideSpeedAgree",
+        "emote_id": "01KB96HXJS7ECSAZWW58KTVBSV",
+        "url": "https://cdn.7tv.app/emote/01KB96HXJS7ECSAZWW58KTVBSV/4x.avif",
+        "count": 8,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 07:59:49 pm"
+      },
+      {
+        "name": "omEvil",
+        "emote_id": "01GYQEJ3PG000EFP0AEB4EDWVE",
+        "url": "https://cdn.7tv.app/emote/01GYQEJ3PG000EFP0AEB4EDWVE/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 07:59:53 pm"
+      },
+      {
+        "name": "mhm",
+        "emote_id": "01HC2F2VC80009NC1Q0NCNFE63",
+        "url": "https://cdn.7tv.app/emote/01HC2F2VC80009NC1Q0NCNFE63/4x.avif",
+        "count": 2,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 07:59:55 pm"
+      },
+      {
+        "name": "doakesSussy",
+        "emote_id": "01KA0S1AMATAS92JGYQPWW1N4V",
+        "url": "https://cdn.7tv.app/emote/01KA0S1AMATAS92JGYQPWW1N4V/4x.avif",
+        "count": 2,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:00:25 pm"
+      },
+      {
+        "name": "NotScared",
+        "emote_id": "01K9D1T94YFAEFA2WMD3J7HEMQ",
+        "url": "https://cdn.7tv.app/emote/01K9D1T94YFAEFA2WMD3J7HEMQ/4x.avif",
+        "count": 3,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:00:41 pm"
+      },
+      {
+        "name": "WTF",
+        "emote_id": "01HFAKJ7B000030WBP0NCZ278D",
+        "url": "https://cdn.7tv.app/emote/01HFAKJ7B000030WBP0NCZ278D/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:00:50 pm"
+      },
+      {
+        "name": "....",
+        "emote_id": "01KB94RVZKW9XB5RJ4J86929FE",
+        "url": "https://cdn.7tv.app/emote/01KB94RVZKW9XB5RJ4J86929FE/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:01:09 pm"
+      },
+      {
+        "name": "Bowser",
+        "emote_id": "01J5NMYNAR00082PCYH2WBMKYH",
+        "url": "https://cdn.7tv.app/emote/01J5NMYNAR00082PCYH2WBMKYH/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:01:12 pm"
+      },
+      {
+        "name": "WW",
+        "emote_id": "01JC9QSC8NX9ZZX7EG1QH5DA9T",
+        "url": "https://cdn.7tv.app/emote/01JC9QSC8NX9ZZX7EG1QH5DA9T/4x.avif",
+        "count": 15,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:01:21 pm"
+      },
+      {
+        "name": "Nime",
+        "emote_id": "01FBESR8HR0004CMZNTV0V23C6",
+        "url": "https://cdn.7tv.app/emote/01FBESR8HR0004CMZNTV0V23C6/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:01:34 pm"
+      },
+      {
+        "name": "WHAT",
+        "emote_id": "01JD0AXPF17JC1C5C80MERTMFJ",
+        "url": "https://cdn.7tv.app/emote/01JD0AXPF17JC1C5C80MERTMFJ/4x.avif",
+        "count": 5,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:01:56 pm"
+      },
+      {
+        "name": "GULP",
+        "emote_id": "01JEGPC442BY8REWDBQP01HKHK",
+        "url": "https://cdn.7tv.app/emote/01JEGPC442BY8REWDBQP01HKHK/4x.avif",
+        "count": 4,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:01:56 pm"
+      },
+      {
+        "name": "Concerned",
+        "emote_id": "01GJAZJF4G000BQTKE7HMZA9R9",
+        "url": "https://cdn.7tv.app/emote/01GJAZJF4G000BQTKE7HMZA9R9/4x.avif",
+        "count": 2,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:01:57 pm"
+      },
+      {
+        "name": "oop",
+        "emote_id": "01KAAACAWB8EDN575NTPVBVBJM",
+        "url": "https://cdn.7tv.app/emote/01KAAACAWB8EDN575NTPVBVBJM/4x.avif",
+        "count": 5,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:01:58 pm"
+      },
+      {
+        "name": "WeirdedOut",
+        "emote_id": "01KBVYTR96E315MWXDQNXCPEP6",
+        "url": "https://cdn.7tv.app/emote/01KBVYTR96E315MWXDQNXCPEP6/4x.avif",
+        "count": 2,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:02:02 pm"
+      },
+      {
+        "name": "PLEASE",
+        "emote_id": "01J1KT8B5R00094JEX7DT6TZEG",
+        "url": "https://cdn.7tv.app/emote/01J1KT8B5R00094JEX7DT6TZEG/4x.avif",
+        "count": 2,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:02:12 pm"
+      },
+      {
+        "name": "BANGERR",
+        "emote_id": "01K9W5Q4VTX50QQW7VZ1E8AYM7",
+        "url": "https://cdn.7tv.app/emote/01K9W5Q4VTX50QQW7VZ1E8AYM7/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:02:43 pm"
+      },
+      {
+        "name": "BAND",
+        "emote_id": "01J6HGJYH8000CNHQCE7PFQJ6E",
+        "url": "https://cdn.7tv.app/emote/01J6HGJYH8000CNHQCE7PFQJ6E/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:02:48 pm"
+      },
+      {
+        "name": "Cinema",
+        "emote_id": "01GKMVYF2R0001Z57CXTFK3EH7",
+        "url": "https://cdn.7tv.app/emote/01GKMVYF2R0001Z57CXTFK3EH7/4x.avif",
+        "count": 2,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:03:09 pm"
+      },
+      {
+        "name": "sob",
+        "emote_id": "01KBA6G2NR14QZ0EMJWV8XFMM9",
+        "url": "https://cdn.7tv.app/emote/01KBA6G2NR14QZ0EMJWV8XFMM9/4x.avif",
+        "count": 5,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:03:10 pm"
+      },
+      {
+        "name": "hamsterJAM",
+        "emote_id": "01FPJCDW780008ZYPTDH5TYND4",
+        "url": "https://cdn.7tv.app/emote/01FPJCDW780008ZYPTDH5TYND4/4x.avif",
+        "count": 2,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:03:17 pm"
+      },
+      {
+        "name": "uncPls",
+        "emote_id": "01GMQ5SAJR000BG6T6EHM1X2RX",
+        "url": "https://cdn.7tv.app/emote/01GMQ5SAJR000BG6T6EHM1X2RX/4x.avif",
+        "count": 8,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:03:18 pm"
+      },
+      {
+        "name": "NHS",
+        "emote_id": "01H763X4G0000FPB9DY6Y6CDDY",
+        "url": "https://cdn.7tv.app/emote/01H763X4G0000FPB9DY6Y6CDDY/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:03:19 pm"
+      },
+      {
+        "name": "Goober",
+        "emote_id": "01J8QKZPRR000A5QBDAQ50ZCK0",
+        "url": "https://cdn.7tv.app/emote/01J8QKZPRR000A5QBDAQ50ZCK0/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:03:26 pm"
+      },
+      {
+        "name": "PuzzleTime",
+        "emote_id": "01FG8JHACG00047CPSV86K46B7",
+        "url": "https://cdn.7tv.app/emote/01FG8JHACG00047CPSV86K46B7/4x.avif",
+        "count": 2,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:03:26 pm"
+      },
+      {
+        "name": "patrickPls",
+        "emote_id": "01FSNS0N400007E5TN8YT2BM12",
+        "url": "https://cdn.7tv.app/emote/01FSNS0N400007E5TN8YT2BM12/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:03:31 pm"
+      },
+      {
+        "name": "HOLD",
+        "emote_id": "01JDTD6V58W9CT20CJ3AY7GE46",
+        "url": "https://cdn.7tv.app/emote/01JDTD6V58W9CT20CJ3AY7GE46/4x.avif",
+        "count": 3,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:03:42 pm"
+      },
+      {
+        "name": "fairs",
+        "emote_id": "01K2GEFP8CQ7S8G48T12YJTWQB",
+        "url": "https://cdn.7tv.app/emote/01K2GEFP8CQ7S8G48T12YJTWQB/4x.avif",
+        "count": 6,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:03:51 pm"
+      },
+      {
+        "name": "Pointless",
+        "emote_id": "01GWXY9H48000CAAEBP2XKP65M",
+        "url": "https://cdn.7tv.app/emote/01GWXY9H48000CAAEBP2XKP65M/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:04:30 pm"
+      },
+      {
+        "name": "SAJ",
+        "emote_id": "01JDPHC8N2GE1270Z4E12EG3H7",
+        "url": "https://cdn.7tv.app/emote/01JDPHC8N2GE1270Z4E12EG3H7/4x.avif",
+        "count": 3,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:04:51 pm"
+      },
+      {
+        "name": "FeelsBirthdayMan",
+        "emote_id": "55b6524154eefd53777b2580",
+        "url": "https://cdn.betterttv.net/emote/55b6524154eefd53777b2580/3x",
+        "count": 1,
+        "site": "BTTV_global",
+        "last_at": "14/12/2025 08:04:52 pm"
+      },
+      {
+        "name": "awww",
+        "emote_id": "01FTEFRPKR0001E12995B12DAF",
+        "url": "https://cdn.7tv.app/emote/01FTEFRPKR0001E12995B12DAF/4x.avif",
+        "count": 3,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:04:52 pm"
+      },
+      {
+        "name": "zoilFlower",
+        "emote_id": "01KAW70XD0CQSRNTAQENCF2T8B",
+        "url": "https://cdn.7tv.app/emote/01KAW70XD0CQSRNTAQENCF2T8B/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:05:21 pm"
+      },
+      {
+        "name": "ewpJam",
+        "emote_id": "01K90QGMDF4BZYNHMP0ZGP3K03",
+        "url": "https://cdn.7tv.app/emote/01K90QGMDF4BZYNHMP0ZGP3K03/4x.avif",
+        "count": 2,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:05:33 pm"
+      },
+      {
+        "name": "LO",
+        "emote_id": "01K90VVBBDBKSFPJCAWWFBQKWK",
+        "url": "https://cdn.7tv.app/emote/01K90VVBBDBKSFPJCAWWFBQKWK/4x.avif",
+        "count": 5,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:06:20 pm"
+      },
+      {
+        "name": "FINALLY",
+        "emote_id": "01GYYJ0928000DPYRQPB67BA13",
+        "url": "https://cdn.7tv.app/emote/01GYYJ0928000DPYRQPB67BA13/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:06:20 pm"
+      },
+      {
+        "name": "WHATTT",
+        "emote_id": "01JH4A8RCD6WWBDSBHKATRGFGK",
+        "url": "https://cdn.7tv.app/emote/01JH4A8RCD6WWBDSBHKATRGFGK/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:06:25 pm"
+      },
+      {
+        "name": "baj",
+        "emote_id": "01FSZEGMVG00001582V1DY9QD5",
+        "url": "https://cdn.7tv.app/emote/01FSZEGMVG00001582V1DY9QD5/4x.avif",
+        "count": 2,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:06:35 pm"
+      },
+      {
+        "name": "Sigma",
+        "emote_id": "01J13HQ3XR000BMH9V93EWRBRH",
+        "url": "https://cdn.7tv.app/emote/01J13HQ3XR000BMH9V93EWRBRH/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:06:35 pm"
+      },
+      {
+        "name": "LOL",
+        "emote_id": "01JBZXQGFKS1C06WD5NV35XHRE",
+        "url": "https://cdn.7tv.app/emote/01JBZXQGFKS1C06WD5NV35XHRE/4x.avif",
+        "count": 2,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:07:04 pm"
+      },
+      {
+        "name": "om",
+        "emote_id": "01KAF0VES6PAVJT2FBEA3SX39M",
+        "url": "https://cdn.7tv.app/emote/01KAF0VES6PAVJT2FBEA3SX39M/4x.avif",
+        "count": 8,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:07:12 pm"
+      },
+      {
+        "name": "sumSmash",
+        "emote_id": "5f70a48d62f49f0b21632deb",
+        "url": "https://cdn.betterttv.net/emote/5f70a48d62f49f0b21632deb/3x",
+        "count": 1,
+        "site": "BTTV_channel",
+        "last_at": "14/12/2025 08:07:30 pm"
+      },
+      {
+        "name": "Pffttt",
+        "emote_id": "01JC1VW61PMSDCTSQR9CWSJ1C4",
+        "url": "https://cdn.7tv.app/emote/01JC1VW61PMSDCTSQR9CWSJ1C4/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:07:50 pm"
+      },
+      {
+        "name": "ome10",
+        "emote_id": "01GYQDH13G000DZFNQACNQMX89",
+        "url": "https://cdn.7tv.app/emote/01GYQDH13G000DZFNQACNQMX89/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:07:59 pm"
+      },
+      {
+        "name": "Lemon",
+        "emote_id": "01FNQMGF98000FZADBM40VQN91",
+        "url": "https://cdn.7tv.app/emote/01FNQMGF98000FZADBM40VQN91/4x.avif",
+        "count": 2,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:08:08 pm"
+      },
+      {
+        "name": "TrollFunk",
+        "emote_id": "01J4B87N20000D6Z8P1870073K",
+        "url": "https://cdn.7tv.app/emote/01J4B87N20000D6Z8P1870073K/4x.avif",
+        "count": 2,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:08:37 pm"
+      },
+      {
+        "name": "omgBruh",
+        "emote_id": "01K916HZFXE94TSZ90ZVZMSYE1",
+        "url": "https://cdn.7tv.app/emote/01K916HZFXE94TSZ90ZVZMSYE1/4x.avif",
+        "count": 4,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:08:38 pm"
+      },
+      {
+        "name": "rt",
+        "emote_id": "01FMPBD86G00045PDTB992Q07E",
+        "url": "https://cdn.7tv.app/emote/01FMPBD86G00045PDTB992Q07E/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:08:38 pm"
+      },
+      {
+        "name": "LMAOOOOOOOOOO",
+        "emote_id": "01HENZNA48000DXSBGE946X8E0",
+        "url": "https://cdn.7tv.app/emote/01HENZNA48000DXSBGE946X8E0/4x.avif",
+        "count": 3,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:09:56 pm"
+      },
+      {
+        "name": "kek",
+        "emote_id": "01GK669CDG000B7ZJBA17ANCSM",
+        "url": "https://cdn.7tv.app/emote/01GK669CDG000B7ZJBA17ANCSM/4x.avif",
+        "count": 5,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:10:12 pm"
+      },
+      {
+        "name": "61",
+        "emote_id": "01K81TA2Q4QBFDD5498BRYHDCB",
+        "url": "https://cdn.7tv.app/emote/01K81TA2Q4QBFDD5498BRYHDCB/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:10:21 pm"
+      },
+      {
+        "name": "FOWL",
+        "emote_id": "01K9R1Z6K61ESSW52DA7Z3BR6Z",
+        "url": "https://cdn.7tv.app/emote/01K9R1Z6K61ESSW52DA7Z3BR6Z/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:10:33 pm"
+      },
+      {
+        "name": "LOOKLOOK",
+        "emote_id": "01G9N1M6R00009ETJ7EP2PEP33",
+        "url": "https://cdn.7tv.app/emote/01G9N1M6R00009ETJ7EP2PEP33/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:10:40 pm"
+      },
+      {
+        "name": "KKool",
+        "emote_id": "01FKSMNC9R0004X8QJ9S80K326",
+        "url": "https://cdn.7tv.app/emote/01FKSMNC9R0004X8QJ9S80K326/4x.avif",
+        "count": 2,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:10:44 pm"
+      },
+      {
+        "name": "Listening",
+        "emote_id": "01GJDKPQFG0002M82GRXJ3CZ38",
+        "url": "https://cdn.7tv.app/emote/01GJDKPQFG0002M82GRXJ3CZ38/4x.avif",
+        "count": 4,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:10:44 pm"
+      },
+      {
+        "name": "glorpSingingAtYou",
+        "emote_id": "01HPC4MQDR0000WH1HT606RYG3",
+        "url": "https://cdn.7tv.app/emote/01HPC4MQDR0000WH1HT606RYG3/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:10:47 pm"
+      },
+      {
+        "name": "mmm",
+        "emote_id": "01KBBWMNVP91E7DDD0ZE94F1YZ",
+        "url": "https://cdn.7tv.app/emote/01KBBWMNVP91E7DDD0ZE94F1YZ/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:10:47 pm"
+      },
+      {
+        "name": "HEALED",
+        "emote_id": "01JXDZ71JFPDV1H6F74EXXV6XC",
+        "url": "https://cdn.7tv.app/emote/01JXDZ71JFPDV1H6F74EXXV6XC/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:10:53 pm"
+      },
+      {
+        "name": "wingsCozy",
+        "emote_id": "01KB2H7BH34FT54H21GT41DECG",
+        "url": "https://cdn.7tv.app/emote/01KB2H7BH34FT54H21GT41DECG/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:10:54 pm"
+      },
+      {
+        "name": "Alright",
+        "emote_id": "01JE1BP27SB58VTPCBZV8RRSMX",
+        "url": "https://cdn.7tv.app/emote/01JE1BP27SB58VTPCBZV8RRSMX/4x.avif",
+        "count": 3,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:11:18 pm"
+      },
+      {
+        "name": "mee",
+        "emote_id": "01HYDHH5MR0008S1C6EMG4GKAW",
+        "url": "https://cdn.7tv.app/emote/01HYDHH5MR0008S1C6EMG4GKAW/4x.avif",
+        "count": 2,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:11:49 pm"
+      },
+      {
+        "name": "nonono",
+        "emote_id": "01K4K87J598VMPK358BR849TGB",
+        "url": "https://cdn.7tv.app/emote/01K4K87J598VMPK358BR849TGB/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:11:59 pm"
+      },
+      {
+        "name": "taw",
+        "emote_id": "01JEW9E3N8PERA2WGYGCJX8QP7",
+        "url": "https://cdn.7tv.app/emote/01JEW9E3N8PERA2WGYGCJX8QP7/4x.avif",
+        "count": 4,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:12:13 pm"
+      },
+      {
+        "name": "ewpert",
+        "emote_id": "01GJZPNNS80000EPP0TR4PY1Z2",
+        "url": "https://cdn.7tv.app/emote/01GJZPNNS80000EPP0TR4PY1Z2/4x.avif",
+        "count": 7,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:12:29 pm"
+      },
+      {
+        "name": "Robert",
+        "emote_id": "01JD96QRDG2M5G6MYMTYPMNJWJ",
+        "url": "https://cdn.7tv.app/emote/01JD96QRDG2M5G6MYMTYPMNJWJ/4x.avif",
+        "count": 4,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:12:35 pm"
+      },
+      {
+        "name": "merp",
+        "emote_id": "01JBR4RQ0APMWVZDNAR6T18AE0",
+        "url": "https://cdn.7tv.app/emote/01JBR4RQ0APMWVZDNAR6T18AE0/4x.avif",
+        "count": 3,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:12:37 pm"
+      },
+      {
+        "name": "catEat",
+        "emote_id": "01HF4CW2D00007GA26DF0GQJN6",
+        "url": "https://cdn.7tv.app/emote/01HF4CW2D00007GA26DF0GQJN6/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:12:42 pm"
+      },
+      {
+        "name": "moo",
+        "emote_id": "01JE41D8KRQ3CRRSGR0JGE1FJY",
+        "url": "https://cdn.7tv.app/emote/01JE41D8KRQ3CRRSGR0JGE1FJY/4x.avif",
+        "count": 7,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:12:43 pm"
+      },
+      {
+        "name": "Love",
+        "emote_id": "01FM4V12400001FS6N1BY0SNK6",
+        "url": "https://cdn.7tv.app/emote/01FM4V12400001FS6N1BY0SNK6/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:12:47 pm"
+      },
+      {
+        "name": "hiii",
+        "emote_id": "01JCXYY2GGY6PZTBPEPC54ERW7",
+        "url": "https://cdn.7tv.app/emote/01JCXYY2GGY6PZTBPEPC54ERW7/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:12:49 pm"
+      },
+      {
+        "name": "meow",
+        "emote_id": "01JCPZE5Z37956HR8QDC01E264",
+        "url": "https://cdn.7tv.app/emote/01JCPZE5Z37956HR8QDC01E264/4x.avif",
+        "count": 5,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:12:52 pm"
+      },
+      {
+        "name": "robertJam",
+        "emote_id": "01KBGNQSYSCHGT8BP7X6ZJWVVD",
+        "url": "https://cdn.7tv.app/emote/01KBGNQSYSCHGT8BP7X6ZJWVVD/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:12:52 pm"
+      },
+      {
+        "name": "MONKA",
+        "emote_id": "01HHJZB1TR000D8731RNK5K497",
+        "url": "https://cdn.7tv.app/emote/01HHJZB1TR000D8731RNK5K497/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:13:08 pm"
+      },
+      {
+        "name": "SoCute",
+        "emote_id": "01GKPG5KMR000A2DV7NHCGMKJW",
+        "url": "https://cdn.7tv.app/emote/01GKPG5KMR000A2DV7NHCGMKJW/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:13:21 pm"
+      },
+      {
+        "name": "otagWizard",
+        "emote_id": "01HRBC6SA0000B11HAFPEPACD8",
+        "url": "https://cdn.7tv.app/emote/01HRBC6SA0000B11HAFPEPACD8/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:13:26 pm"
+      },
+      {
+        "name": "worbodance",
+        "emote_id": "01H8CCHAYR000BRFHM5S980TEY",
+        "url": "https://cdn.7tv.app/emote/01H8CCHAYR000BRFHM5S980TEY/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:13:32 pm"
+      },
+      {
+        "name": "Worboing",
+        "emote_id": "01GXEKCGTG00062Z49ENC9ZF3W",
+        "url": "https://cdn.7tv.app/emote/01GXEKCGTG00062Z49ENC9ZF3W/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:13:41 pm"
+      },
+      {
+        "name": "WEDIDIT",
+        "emote_id": "01J27W245800025HNEJSHHD00A",
+        "url": "https://cdn.7tv.app/emote/01J27W245800025HNEJSHHD00A/4x.avif",
+        "count": 3,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:13:43 pm"
+      },
+      {
+        "name": "xd",
+        "emote_id": "01HHVJBNYG000DQH2MH8GTA03Z",
+        "url": "https://cdn.7tv.app/emote/01HHVJBNYG000DQH2MH8GTA03Z/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:14:23 pm"
+      },
+      {
+        "name": "Tomfoolery",
+        "emote_id": "01GGWQRKWR0001A5ZZZNBRZBVS",
+        "url": "https://cdn.7tv.app/emote/01GGWQRKWR0001A5ZZZNBRZBVS/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:14:42 pm"
+      },
+      {
+        "name": "xqcL",
+        "emote_id": "01K5R9W313A45EHXPNW6G1RVVE",
+        "url": "https://cdn.7tv.app/emote/01K5R9W313A45EHXPNW6G1RVVE/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:14:57 pm"
+      },
+      {
+        "name": "Huh",
+        "emote_id": "01H94RXK8G000A3085VTM7A7ME",
+        "url": "https://cdn.7tv.app/emote/01H94RXK8G000A3085VTM7A7ME/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:15:13 pm"
+      },
+      {
+        "name": "WHAt",
+        "emote_id": "01GJCE947R000B2MTKN75PM6GP",
+        "url": "https://cdn.7tv.app/emote/01GJCE947R000B2MTKN75PM6GP/4x.avif",
+        "count": 1,
+        "site": "7TV_channel",
+        "last_at": "14/12/2025 08:15:39 pm"
+      }
+    ]
+  }
+}
